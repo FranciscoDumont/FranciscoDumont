@@ -2,6 +2,7 @@
 
 <a href="https://www.youtube.com/watch?v=utyhLoRxhWM"><img src="https://raw.githubusercontent.com/FranciscoDumont/FranciscoDumont/master/image.jpg" alt="Que onda bro" width="500" align="right"></a>
 ### ✨ About me
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React-icon" width="30"> React Native Developer
 - 🔭 Fanático de la bebida blanca y el choclo con manteca.
 - 🌱 Actualmente hago danza robotica y toco la guitarra en una banda de bucetich
 - 🤔 Ex moderador del quinto escalon le toque la entrepierna a coscu.
